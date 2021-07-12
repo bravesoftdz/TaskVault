@@ -34,7 +34,7 @@ procedure InitializeComponent;
         self.linkLabel1.Size := new System.Drawing.Size(190, 64);
         self.linkLabel1.TabIndex := 1;
         self.linkLabel1.TabStop := true;
-        self.linkLabel1.Text := 'TaskVault'#13#10'Version 1.0'#13#10#13#10'By Michael Agarkov';
+        self.linkLabel1.Text := 'TaskVault'#13#10'Version 1.1'#13#10#13#10'By Michael Agarkov';
         self.linkLabel1.UseCompatibleTextRendering := true;
         self.linkLabel1.LinkClicked += linkLabel1_LinkClicked;
         // 
@@ -80,6 +80,7 @@ procedure InitializeComponent;
         self.FormBorderStyle := System.Windows.Forms.FormBorderStyle.FixedSingle;
         self.Icon := (System.Drawing.Icon(resources.GetObject('$this.Icon')));
         self.MaximizeBox := false;
+        self.MinimizeBox := false;
         self.Name := 'AboutTaskVault';
         self.StartPosition := System.Windows.Forms.FormStartPosition.CenterScreen;
         self.Text := 'About TaskVault';
