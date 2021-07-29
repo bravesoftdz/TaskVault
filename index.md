@@ -18,6 +18,4 @@ I recommend using [PascalABC.NET version 3.4.2 build 2050](https://archive.org/d
 TaskVault is published under the [**BSD 4-Clause License**](https://github.com/MichaelAgarkov/TaskVault/blob/main/License.txt) for your freedom to [modify](https://github.com/MichaelAgarkov/TaskVault/wiki/Modifying) it the way you want to work in it.
 
 ---
-Copyright (c) 2021, Michael Agarkov
-
-All rights reserved.
+Copyright (c) 2021, [Michael Agarkov](https://github.com/MichaelAgarkov)
