@@ -20,4 +20,4 @@ TaskVault is published under the [**BSD 4-Clause License**](https://github.com/M
 ---
 Copyright (c) 2021, [Michael Agarkov](https://github.com/MichaelAgarkov)
 <br>
-All rights reserved
+All rights reserved.
