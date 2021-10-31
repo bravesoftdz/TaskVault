@@ -1,6 +1,6 @@
 # TaskVault - A simple ToDo list program
 
-TaskVault is a vault for you, where you can keep notes about the next steps, the stuff to do for later, and fill it with ideas.
+TaskVault is an idea vault, where you can keep notes about the next steps, the stuff to do for later, created for your needs.
 
 ![Screenshot_1](https://user-images.githubusercontent.com/81249219/125288252-97349480-e326-11eb-8771-b30e42196d85.png)
 
